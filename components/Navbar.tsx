@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { useState } from "react";
-import { profile, experience } from "@/data/portfolio";
+
 import { CloseIcon, MenuIcon } from "./Icons";
 
 const links = [
