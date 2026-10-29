@@ -2,9 +2,8 @@
 
 import Link from "next/link";
 import { useState } from "react";
-
+import { profile } from "@/data/portfolio";
 import { CloseIcon, MenuIcon } from "./Icons";
-
 const links = [
   { href: "/#home", label: "Home" },
   { href: "/#about", label: "About" },
