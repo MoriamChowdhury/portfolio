@@ -2,7 +2,7 @@
 
 A responsive personal portfolio website showcasing my skills, education, and projects. Built with Next.js and Tailwind CSS.
 
-**Live Site:** https://your-portfolio-link.vercel.app
+**Live Site:** https://portfolio-2sct.vercel.app/
 
 ## Features
 
@@ -85,9 +85,9 @@ To replace the resume, put your PDF at `public/resume.pdf`. To replace images, a
 
 ## Contact
 
-- **Email:** your-email@example.com
-- **GitHub:** https://github.com/your-username
-- **LinkedIn:** https://linkedin.com/in/your-username
+
+- **GitHub:** https://github.com/MoriamChowdhury
+
 
 ## License
 
