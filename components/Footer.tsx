@@ -1,11 +1,8 @@
 import { profile } from "@/data/portfolio";
-import { FacebookIcon, GithubIcon, LinkedinIcon, XIcon } from "./Icons";
+import { GithubIcon } from "./Icons";
 
 const socials = [
   { label: "GitHub", href: profile.socials.github, Icon: GithubIcon },
- 
-  { label: "Facebook", href: profile.socials.facebook, Icon: FacebookIcon },
-  
 ];
 
 export default function Footer() {
